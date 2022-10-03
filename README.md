@@ -11,7 +11,7 @@ A SMIT objetiva implementar aplicativo que: (1) possibilite o cadastramento de i
 
 ## Tecnologias
 
-![ChakraUI](https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true)
+<!-- ![ChakraUI](https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true)
 
 ![Docker](https://cdn-icons-png.flaticon.com/512/919/919853.png)
 
@@ -21,7 +21,19 @@ A SMIT objetiva implementar aplicativo que: (1) possibilite o cadastramento de i
 
 ![C#](https://cdn-icons-png.flaticon.com/512/6132/6132221.png)
 
-![Typescript](https://cdn-icons-png.flaticon.com/512/5968/5968381.png)
+![Typescript](https://cdn-icons-png.flaticon.com/512/5968/5968381.png) -->
+
+![ChakraUI]
+
+![Docker]
+
+![MySql]
+
+![ReactJS]
+
+![C#]
+
+![Typescript]
 
 ### Frontend:
 
