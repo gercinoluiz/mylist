@@ -6,25 +6,22 @@ O sistema denominado Gestão do Capital Humano é o equivalente a um cadastro de
 
 A SMIT objetiva implementar aplicativo que: (1) possibilite o cadastramento de informações (pessoais, saúde e desenvolvimento) a respeito dos funcionários que atuam no Descomplica, e (2) permita a emissão de relatórios de gestão para o conhecimento, a movimentação, o controle e o desenvolvimento profissional dos funcionários, tudo considerando as exigências e limites permitidos pela Lei Geral de Proteção de Dados – LGPD (LEI Nº 13.709, DE 14 DE AGOSTO DE 2018).
 
-## Meta
-
-![Untitled](https://cloudprodamazhotmail-my.sharepoint.com/:i:/g/personal/gercinoneto_prodam_sp_gov_br/EUBwHheEtp1AoKNqozBefe0ByNA0OXgwMWZY71STHSdgbg?e=ayb1RJ)
 
 # Dados diversos
 
 ## Tecnologias
 
-![Untitled](https://cloudprodamazhotmail-my.sharepoint.com/:i:/g/personal/gercinoneto_prodam_sp_gov_br/EeSPbtbEx_pKlNeGVgwjscoBxOp6OGWdQjeWKLeTj3aypw?e=pQogHc)
+![ChakraUI](https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true)
 
-![docker-banner.png](https://cloudprodamazhotmail-my.sharepoint.com/:i:/g/personal/gercinoneto_prodam_sp_gov_br/EWtwsDkZHhRAqTPWm1OuS0QBAdGuvlRvyEoKQPsQ9yKmlA?e=I3bzCj)
+![Docker](https://cdn-icons-png.flaticon.com/512/919/919853.png)
 
-![logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/60ffc168-4f21-47ef-8534-fd99ab15f5c5/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png)
+![MySql](https://cdn-icons-png.flaticon.com/512/919/919836.png)
 
-![1631110818-logo-react-js.png](https://cloudprodamazhotmail-my.sharepoint.com/:i:/g/personal/gercinoneto_prodam_sp_gov_br/EYDwfb4lHDNJjmqKdCVyra8B5yFNwAi4UIxjwtKoPkZDig?e=afM6Lf)
+![ReactJS](https://cdn-icons-png.flaticon.com/512/1126/1126012.png)
 
-![Untitled](https://cloudprodamazhotmail-my.sharepoint.com/:i:/g/personal/gercinoneto_prodam_sp_gov_br/ESGe3kIiQvdFixSHUq5YU0MBJk9UnxIqH3ZOdjT4Evn9eQ?e=FN9OJl)
+![C#](https://cdn-icons-png.flaticon.com/512/6132/6132221.png)
 
-![Typescript_logo_2020.svg.png](https://cloudprodamazhotmail-my.sharepoint.com/:i:/g/personal/gercinoneto_prodam_sp_gov_br/EcrXFuHbNUxInUvu3ShsVvsBVikHH79lFryddCHXCcGazQ?e=hLb8iV)
+![Typescript](https://cdn-icons-png.flaticon.com/512/5968/5968381.png)
 
 ### Frontend:
 
