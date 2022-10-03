@@ -23,17 +23,17 @@ A SMIT objetiva implementar aplicativo que: (1) possibilite o cadastramento de i
 
 ![Typescript](https://cdn-icons-png.flaticon.com/512/5968/5968381.png) -->
 
-![ChakraUI]
+[ChakraUI]
 
-![Docker]
+[Docker]
 
-![MySql]
+[MySql]
 
-![ReactJS]
+[ReactJS]
 
-![C#]
+[C#]
 
-![Typescript]
+[Typescript]
 
 ### Frontend:
 
